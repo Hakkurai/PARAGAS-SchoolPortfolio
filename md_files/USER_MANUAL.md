@@ -1,4 +1,3 @@
-1. Introduction
 Welcome to the AirGuard Pro! This wearable device is designed to monitor air quality in real-time and provide you with actionable health insights. Whether you are a city commuter, outdoor worker, or health-conscious individual, AirGuard Pro will help you stay informed about the air you breathe.
 
 2. DEVICE OVERVIEW
