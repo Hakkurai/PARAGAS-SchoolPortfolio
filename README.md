@@ -1,2 +1,0 @@
-# PARAGAS-SchoolPortfolio
-School Portfolio
